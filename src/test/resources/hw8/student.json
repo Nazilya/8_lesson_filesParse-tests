@@ -1,0 +1,15 @@
+{
+  "firstName": "Ivan",
+  "lastName": "Petrov",
+  "age": 20,
+  "full-time_student": true,
+  "lessons": [
+    "Math",
+    "English",
+    "Economics"
+  ],
+  "student_card": {
+    "number": 123456,
+    "issueDate": "01.09.2020"
+  }
+}
